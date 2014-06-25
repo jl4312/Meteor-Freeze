@@ -1,0 +1,2 @@
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreezeContent\obj\x86\Debug\MeteorFreezeContent.contentprojResolveAssemblyReference.cache
+C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreezeContent\obj\x86\Debug\MeteorFreezeContent.contentprojResolveAssemblyReference.cache
