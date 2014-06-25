@@ -34,29 +34,29 @@ namespace MeteorFreeze.Character
         protected Vector2 velocity;//holds the players velocity 
         protected Vector2 acceleration;//holds the players acceleration
 
-        protected bool isJumping;
-        protected bool inAir;
+        protected bool isJumping;//holds whether or not the character is jumping
+        protected bool inAir;//holds whether or not the character is airborn
 
 
-        private KeyboardState kPrevState;
-        private KeyboardState kState;
+        private KeyboardState kPrevState;//holds the prevoius key pressed
+        private KeyboardState kState;//hold the current key pressed
 
-        protected characterState currentState;
-        protected characterState previousState;
+        protected characterState currentState;//holds the character's current state
+        protected characterState previousState;//holds the character's previous state
 
-        protected Dictionary<string, Texture2D> imageDictionary;
+        protected Dictionary<string, Texture2D> imageDictionary;//image dictionary of all the texture2d for the character
 
-        protected Rectangle bottom;
-        protected Rectangle top;
-        protected Rectangle left;
-        protected Rectangle right;
+        protected Rectangle bottom;//rectangle representing the bottom part of the character'
+        protected Rectangle top;//rectangle representing the top part of the character
+        protected Rectangle left;//rectangle representing the left side of the character
+        protected Rectangle right;//rectangle representing the right side of the character
 
-        protected Dictionary<string, Animation> animationList;
-        protected Animation currentAnimation;
+        protected Dictionary<string, Animation> animationList;//dictionary of the animation for specific states
+        protected Animation currentAnimation;//holds the current animation for the character
 
-        protected FreezeShot shot;
-        protected int point;
-        protected int lives;
+        protected FreezeShot shot;//freezeshot that the character shoots out
+        protected int point;//holds the character's points
+        protected int lives;//holds how many lives the character has
 
         public int Point
         {
@@ -82,20 +82,32 @@ namespace MeteorFreeze.Character
             imageDictionary = new Dictionary<string, Texture2D>();
             animationList = new Dictionary<string, Animation>();
 
+            #region creates 4 rectangles representing the sides of the character
             top = new Rectangle(position.X + position.Width - 4, position.Y, position.Width - position.Width / 4, 5);
             bottom = new Rectangle(position.X + position.Width - 4, position.Y + position.Height , position.Width - position.Width / 4, 5);
             left = new Rectangle(position.X - 10, position.Y + position.Height / 12, 5, position.Height - position.Height / 6);
             right = new Rectangle(position.X + position.Width + 10, position.Y + position.Height / 12, 5, position.Height - position.Height / 6);
+            #endregion
 
             point = 0;
             lives = 3;
 
         }
+
+        /// <summary>
+        /// checks if the object collides with the gameObject
+        /// </summary>
+        /// <param name="obj"></param>
+        /// <returns></returns>
         public bool CheckCollision(GameObject obj)
         {
             return this.Position.Intersects(obj.Position);
         }
 
+        /// <summary>
+        /// jump method t
+        /// </summary>
+        /// <param name="gameTime"></param>
         public void Jump(GameTime gameTime)
         {
             if (!isJumping)
@@ -160,12 +172,15 @@ namespace MeteorFreeze.Character
                 if (!gObject.Active)
                     continue;
 
+
                 if (velocity.X > 0)
                 {
                     if (gObject is Platform)
                     {
                         if (position.X + position.Width > gObject.Position.X + gObject.Position.Width - 10)
+                        {
                             position.X = gObject.Position.X + 10;
+                        }
 
                     }
                     else
@@ -297,7 +312,7 @@ namespace MeteorFreeze.Character
             }
             else
             {
-                currentState = characterState.standing;
+                //currentState = characterState.standing;
                 acceleration.X = 0;
                 velocity.X = 0;
 

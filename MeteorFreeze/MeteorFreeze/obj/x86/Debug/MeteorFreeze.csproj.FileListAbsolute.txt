@@ -1,0 +1,30 @@
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\MeteorFreeze.exe
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\MeteorFreeze.pdb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\obj\x86\Debug\MeteorFreeze.csprojResolveAssemblyReference.cache
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\obj\x86\Debug\MeteorFreeze.exe
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\obj\x86\Debug\MeteorFreeze.pdb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\BoundingBox.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Guage.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\IceChunk.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\PowerUps.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Bounce.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Coin.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Block3.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Falling.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Jumping.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit PowerUp SpreadSheet.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Rising.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Running Spreadsheet.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\basic.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\EmptyTile.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-down.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-hover.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-up.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Freezling.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Target-down.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Target-up.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Shot.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Meteor.xnb
+C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\vortex.xnb

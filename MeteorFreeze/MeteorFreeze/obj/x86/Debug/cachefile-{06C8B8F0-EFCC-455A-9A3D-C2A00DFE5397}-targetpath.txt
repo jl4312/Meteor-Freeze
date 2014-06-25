@@ -10,7 +10,9 @@ Content\Munchlit Jumping.xnb
 Content\Munchlit PowerUp SpreadSheet.xnb
 Content\Munchlit Rising.xnb
 Content\Munchlit Running Spreadsheet.xnb
+Content\basic.xnb
 Content\EmptyTile.xnb
+Content\SpriteFont1.xnb
 Content\Gui\Button-down.xnb
 Content\Gui\Button-hover.xnb
 Content\Gui\Button-up.xnb
@@ -20,5 +22,3 @@ Content\Gui\Target-up.xnb
 Content\Shot.xnb
 Content\Meteor.xnb
 Content\vortex.xnb
-Content\basic.xnb
-Content\SpriteFont1.xnb

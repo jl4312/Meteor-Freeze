@@ -46,10 +46,10 @@ namespace MeteorFreeze.Character
 
             //Initialize animations with spritesheets
             falling.Initialize(imageDictionary["falling"], 1, 540, 540, 0, SCALE_FACTOR, int.MaxValue);
-            jumping.Initialize(imageDictionary["jumping"], 2, 259, 259, 0, SCALE_FACTOR, 500);
+            jumping.Initialize(imageDictionary["jumping"], 2, 259, 259, 0, SCALE_FACTOR, 50);
             inAir.Initialize(imageDictionary["inAir"], 1, 864, 864, 0, SCALE_FACTOR, int.MaxValue);
-            walking.Initialize(imageDictionary["walking"], 8, 250, 250, 0, SCALE_FACTOR, 60);
-            running.Initialize(imageDictionary["running"], 8, 250, 250, 0, SCALE_FACTOR, 100);
+            walking.Initialize(imageDictionary["walking"], 8, 250, 250, 0, SCALE_FACTOR, 50);
+            running.Initialize(imageDictionary["running"], 8, 250, 250, 0, SCALE_FACTOR, 50);
 
 
             //Add animations to the animation list

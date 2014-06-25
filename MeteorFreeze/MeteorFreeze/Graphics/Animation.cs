@@ -5,6 +5,7 @@ using System.Text;
 
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
 
 namespace MeteorFreeze.Graphics
 {
@@ -40,6 +41,11 @@ namespace MeteorFreeze.Graphics
             get { return spriteSheet.Height; }
         }
 
+        public int ElapsedTime
+        {
+            get { return elapsedTime; }
+            set { elapsedTime = value; }
+        }
         /// <summary>
         /// Initializes core components of an animation
         /// </summary>
@@ -69,8 +75,14 @@ namespace MeteorFreeze.Graphics
         /// <param name="gameTime"></param>
         public void Update(GameTime gameTime)
         {
-            elapsedTime += (int)gameTime.ElapsedGameTime.TotalMilliseconds;
+            KeyboardState kb = Keyboard.GetState();
 
+            if (kb.IsKeyDown(Keys.A) || kb.IsKeyDown(Keys.D))
+                elapsedTime++;
+            else
+                elapsedTime = 0;
+           
+            
             if (elapsedTime > frameTime)
             {
                 currentFrame++;
@@ -80,6 +92,7 @@ namespace MeteorFreeze.Graphics
                 elapsedTime = 0;
             }
             source = new Rectangle((int)(currentFrame * frameWidth), (int)(row * frameHeight), frameWidth, frameHeight);
+           
         }
 
         //Play the animation

@@ -71,7 +71,7 @@ namespace MeteorFreeze.GameObjects
                 
             currentVelocity = velocity;
 
-            totalHP = rand.Next(1, 7);
+            totalHP = rand.Next(1, 5);
             currentHP = totalHP;
 
 
@@ -206,7 +206,7 @@ namespace MeteorFreeze.GameObjects
                             if (shot.CurrentState == State.fire)
                             {
                                 shot.CurrentState = State.explosion;
-                                currentHP-= 1;
+                                currentHP--;
                             }
 
 
@@ -256,6 +256,13 @@ namespace MeteorFreeze.GameObjects
                     position.Width = 30;
                     position.Height = 30;
 
+                    frozen = true;
+                    currentVelocity.X = 0;
+                    currentVelocity.Y = (int)1.5 * currentVelocity.Y;
+                    position.Width = 30;
+                    position.Height = 30;
+                    texture = frozenTexture;
+                    
                     if (position.X % 30 != 0)
                     {
                         if (currentVelocity.X > 0)
@@ -267,21 +274,6 @@ namespace MeteorFreeze.GameObjects
                         Console.WriteLine(position.X);
 
                     }
-                    else
-                    {
-                        frozen = true;
-                        currentVelocity.X = 0;
-                        currentVelocity.Y = (int)1.5 * currentVelocity.Y;
-                        position.Width = 30;
-                        position.Height = 30;
-                        texture = frozenTexture;
-                    }
-                    frozen = true;
-                        currentVelocity.X = 0;
-                        currentVelocity.Y = (int)1.5 * currentVelocity.Y;
-                        position.Width = 30;
-                        position.Height = 30;
-                        texture = frozenTexture;
 
                 }
                 else

@@ -43,6 +43,7 @@ namespace MeteorFreeze.GameStates
         private Button btnExit;
         private Button btnMainMenu;
 
+        private int amount;
        
         public Play(Game game, EffectRenderer renderer, StateManager parent)
             : base(game, renderer, parent)
@@ -79,6 +80,8 @@ namespace MeteorFreeze.GameStates
             {
                 
                 childComponents.Add(new Meteor(new Rectangle(i, platform.Position.Y + platform.Position.Height - 45, 30, 30), gameRef.Content, 0));
+                childComponents.Add(new Meteor(new Rectangle(i, platform.Position.Y + platform.Position.Height - 75, 30, 30), gameRef.Content, 0));
+                childComponents.Add(new Meteor(new Rectangle(i, platform.Position.Y + platform.Position.Height - 105, 30, 30), gameRef.Content, 0));
             }
 
             guiManager.AddLabel("HighScore", font, "Highscore: " + 0);
@@ -155,7 +158,7 @@ namespace MeteorFreeze.GameStates
 
         public override void Update(GameTime gameTime)
         {
-            int amount = 0;
+            amount = 0;
             for (int i = 0; i < childComponents.Count; i++)
             {
                 if (childComponents[i] is Meteor)
@@ -182,7 +185,7 @@ namespace MeteorFreeze.GameStates
             kState = Keyboard.GetState();
 
 
-            if (ms.LeftButton == ButtonState.Pressed && ms != prevoiusms)
+            if (ms.LeftButton == ButtonState.Pressed/* && ms != prevoiusms*/)
             {
                 if (guage.guageLoaded() && guage.Stockpile.Peek().FallingSpeed == 0)
                 {
@@ -206,20 +209,21 @@ namespace MeteorFreeze.GameStates
                         angle = (float)Math.Atan2(mouseLoc.Y - player.getMidPoint().Y, mouseLoc.X - player.getMidPoint().X);
                     }
 
-                    shot = new FreezeShot(new Rectangle((int)player.getMidPoint().X - 2, (int)player.getMidPoint().Y - 2, 2, 2), gameRef.Content, angle, guage.getAmmo());
+                    shot = new FreezeShot(new Rectangle((int)player.getMidPoint().X - 2, (int)player.getMidPoint().Y - 2, 15, 15), gameRef.Content, angle, guage.getAmmo());
                     childComponents.Add(shot);
 
                 }
             }
-            if(amount < 6)
-            addMeteor();
+            if (amount < 5)
+            {
+                addMeteor();
+       
 
-
-          //  addMeteor();
+            }
             if (kPrevState.IsKeyDown(Keys.Space) && kState.IsKeyUp(Keys.Space))
             {
 
-                addMeteor();
+                addMeteor2();
 
 
             }
@@ -256,7 +260,7 @@ namespace MeteorFreeze.GameStates
 
         protected void addMeteor()
         {
-            int amount = 0;
+            
             Random rand = new Random();
             Random rand1 = new Random();
             
@@ -274,11 +278,25 @@ namespace MeteorFreeze.GameStates
                 
                 Console.WriteLine(rand.Next((platform.Position.Width - 12)));
                 Rectangle pos = new Rectangle(platform.Position.X + 12 + rand.Next(platform.Position.Width - 12), platform.Position.Y, 25, 25);
-                
-                    childComponents.Add(new Meteor(pos, gameRef.Content));
-                    amount++;
+
+                childComponents.Add(new Meteor(pos, gameRef.Content));
+                amount += (childComponents[childComponents.Count - 1] as Meteor).CurrentHP;
             }
 
+
+        }
+
+        protected void addMeteor2()
+        {
+          
+
+                Random rand1 = new Random();
+
+    
+                Rectangle pos = new Rectangle(platform.Position.X + 12 + rand1.Next(platform.Position.Width - 12), platform.Position.Y, 25, 25);
+
+                childComponents.Add(new Meteor(pos, gameRef.Content));
+         
 
         }
 

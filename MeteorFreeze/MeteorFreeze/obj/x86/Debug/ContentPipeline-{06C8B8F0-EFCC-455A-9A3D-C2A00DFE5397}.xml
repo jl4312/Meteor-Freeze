@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\BoundingBox.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\BoundingBox.xnb</Output>
       <Time>2014-06-03T21:05:27.2892726-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Guage.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Guage.xnb</Output>
       <Time>2014-06-06T20:39:37.914404-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\IceChunk.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\IceChunk.xnb</Output>
       <Time>2014-06-03T21:05:27.2872725-04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\PowerUps.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\PowerUps.xnb</Output>
       <Time>2014-06-03T23:14:08.2788879-04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Bounce.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Bounce.xnb</Output>
       <Time>2014-06-03T23:14:17.8814372-04:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Coin.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Coin.xnb</Output>
       <Time>2014-06-03T23:16:04.8885576-04:00</Time>
     </Item>
     <Item>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Block3.xnb</Output>
-      <Time>2014-06-03T23:16:13.1350293-04:00</Time>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Block3.xnb</Output>
+      <Time>2014-06-19T21:38:23.7834759-04:00</Time>
     </Item>
     <Item>
       <Source>Munchlit Falling.png</Source>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Falling.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Falling.xnb</Output>
       <Time>2014-06-04T00:01:45.7423255-04:00</Time>
     </Item>
     <Item>
@@ -79,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Jumping.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Jumping.xnb</Output>
       <Time>2014-06-04T00:01:45.7433255-04:00</Time>
     </Item>
     <Item>
@@ -88,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit PowerUp SpreadSheet.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit PowerUp SpreadSheet.xnb</Output>
       <Time>2014-06-04T00:01:45.7463257-04:00</Time>
     </Item>
     <Item>
@@ -97,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Rising.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Rising.xnb</Output>
       <Time>2014-06-04T00:01:45.7483258-04:00</Time>
     </Item>
     <Item>
@@ -106,8 +106,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Running Spreadsheet.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Munchlit Running Spreadsheet.xnb</Output>
       <Time>2014-06-04T00:01:45.7493259-04:00</Time>
+    </Item>
+    <Item>
+      <Source>basic.fx</Source>
+      <Name>basic</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\basic.xnb</Output>
+      <Time>2014-06-06T14:32:18.3994347-04:00</Time>
     </Item>
     <Item>
       <Source>EmptyTile.png</Source>
@@ -115,8 +124,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\EmptyTile.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\EmptyTile.xnb</Output>
       <Time>2014-06-06T14:33:01.2798873-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-06-08T01:08:03.3112721-04:00</Time>
     </Item>
     <Item>
       <Source>Gui\Button-down.png</Source>
@@ -124,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-down.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-down.xnb</Output>
       <Time>2014-06-08T00:53:22.0308658-04:00</Time>
     </Item>
     <Item>
@@ -133,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-hover.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-hover.xnb</Output>
       <Time>2014-06-08T00:53:22.034866-04:00</Time>
     </Item>
     <Item>
@@ -142,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-up.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Button-up.xnb</Output>
       <Time>2014-06-08T00:53:22.0328659-04:00</Time>
     </Item>
     <Item>
@@ -151,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Freezling.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Freezling.xnb</Output>
       <Time>2014-06-08T01:15:50.2359787-04:00</Time>
     </Item>
     <Item>
@@ -160,7 +178,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Target-down.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Target-down.xnb</Output>
       <Time>2014-06-08T23:27:22.4691666-04:00</Time>
     </Item>
     <Item>
@@ -169,7 +187,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Target-up.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Gui\Target-up.xnb</Output>
       <Time>2014-06-08T23:27:22.4701666-04:00</Time>
     </Item>
     <Item>
@@ -178,7 +196,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Shot.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Shot.xnb</Output>
       <Time>2014-06-08T23:59:33.7136274-04:00</Time>
     </Item>
     <Item>
@@ -187,7 +205,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Meteor.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\Meteor.xnb</Output>
       <Time>2014-06-09T00:09:04.1432542-04:00</Time>
     </Item>
     <Item>
@@ -196,26 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\vortex.xnb</Output>
+      <Output>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\vortex.xnb</Output>
       <Time>2014-06-10T19:45:33.2956924-04:00</Time>
-    </Item>
-    <Item>
-      <Source>basic.fx</Source>
-      <Name>basic</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\basic.xnb</Output>
-      <Time>2014-06-06T14:32:18.3994347-04:00</Time>
-    </Item>
-    <Item>
-      <Source>SpriteFont1.spritefont</Source>
-      <Name>SpriteFont1</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
-      <Time>2014-06-08T01:08:03.3112721-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -224,10 +224,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreezeContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Hikaru\Documents\Meteor-Freeze\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreezeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hikaru\Documents\GitHub\MeteorFreeze\MeteorFreeze\MeteorFreeze\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
